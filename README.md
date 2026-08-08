@@ -1,3 +1,3 @@
-# holbertonschool-low_level_programming
+# C - Singly linked lists
 
-Low-level programming projects written in C.
+This directory contains tasks about singly linked lists in C.
